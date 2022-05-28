@@ -1,7 +1,7 @@
 # 4. Write a Python program to solve quadratic equation?
 
 def main():
-    # Quadtratic Equation of the form:
+    # Quadratic Equation of the form:
     # ax^2 + bx + c = 0
     # Equation has two roots
 
